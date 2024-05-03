@@ -9,3 +9,7 @@ Il progetto "Laboratorio gruppo 2" mira a promuovere la diversità linguistica e
 Abbiao deciso per preservare l'autenticità linguistica dei racconti di utilizzare la lingua madre dei personaggi nei dialoghi.
 Per dare importanza ai dialoghi, che sono fondamentali nella nostra narrazione, sono separati da una linea bianca sopra e sotto,
 e dopo ogni punto di andare a capo per migliorare la leggibilità
+
+
+
+unama
