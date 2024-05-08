@@ -22,4 +22,6 @@ Nel racconto_1, si parla di una storia immaginaria tanto divertente quanto signi
 I dialoghi delle forze speciali americane sono stati tradotti in inglese, la lingua madre dei personaggi, mentre i dialoghi di Osama e dei suoi uomini fidati sono stati tradotti in arabo.
 Sono state poi aggiunte altre righe in diverse lingue del mondo per rendere ancora più multiculturale il progetto.
 
-
+### racconto_2
+Nel racconto_2, si narra di un fantomatico leader chiamato Kim Jong Hung, che scopre di essere allergico alle arachidi durante un banchetto, liberando così il popolo dalla sua oppressione.
+I dialoghi sono stati tradotti in Coreano, la lingua madre dei personaggi.
